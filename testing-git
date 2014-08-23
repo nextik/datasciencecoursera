@@ -1,0 +1,4 @@
+import main
+
+for i in a: 
+  print i
